@@ -11,7 +11,11 @@
         "TXT": {
             "name": "_vercel",
             "value": "vc-domain-verify=nolimanom.is-a-good.dev,cf38feec819e016279fc"
-        }
+        },    
+        "CNAME": {
+            "name": "pdrn6wmyptlh",
+            "value": "gv-dt2ao3f6bosxf4.dv.googlehosted.com"
+         }
     },
     "proxied": false
 }
